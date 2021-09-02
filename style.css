@@ -625,3 +625,7 @@ aside h1 {
     margin-bottom: 1rem;
   }
 }
+
+.highlight {
+  border-bottom: 4px solid rgb(24, 24, 23);
+}
